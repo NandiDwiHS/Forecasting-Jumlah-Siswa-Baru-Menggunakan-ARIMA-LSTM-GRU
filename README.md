@@ -2,7 +2,7 @@
 
 Repository ini merupakan implementasi program dari skripsi dengan judul:
 
-**"Penerapan Metode Forecasting pada Jumlah Siswa Baru di Sekolah Berbasis Data Historis Menggunakan Algoritma Machine Learning (Studi Kasus: SDN Pasawahan 09)"**
+**"Penerapan Metode Forecasting Pada Jumlah Siswa Baru di Sekolah Dasar Berbasis Data Historis Menggunakan ARIMA, LSTM, dan GRU"**
 
 ## 📝 Deskripsi
 
